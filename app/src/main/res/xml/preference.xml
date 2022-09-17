@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <PreferenceCategory android:title="设置">
+            <ListPreference
+                android:defaultValue="RED"
+                android:entries="@array/selc"
+                android:entryValues="@array/selc"
+                android:key="color"
+                android:dialogTitle="Select"
+                android:title="颜色"/>
+        </PreferenceCategory>
+</PreferenceScreen>
