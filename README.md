@@ -1,7 +1,7 @@
 # AndroidPreferenceActivityDemo
 
 PreferenceActivity was not be used in API29 and high
-
+📌 https://zhuanlan.zhihu.com/p/148071154?utm_id=0
 Build :  
 - Remember : NOT USE Android Studio's full grade,this is not gradle app soucre code,if u need it,you can copy mainly files only:) 
 
