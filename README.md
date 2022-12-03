@@ -1,5 +1,7 @@
 # AndroidPreferenceActivityDemo
 
+![png](https://img.shields.io/badge/Timeliness-%F0%9F%95%9E%20out%20of%20date-green?logo=github&style=flat-square)
+
 PreferenceActivity was not be used in API29 and high
 📌 https://zhuanlan.zhihu.com/p/148071154?utm_id=0  
 Build :  
