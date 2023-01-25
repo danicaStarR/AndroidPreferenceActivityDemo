@@ -2,22 +2,21 @@
 
 ![png](https://img.shields.io/badge/Timeliness-%F0%9F%95%9E%20out%20of%20date-green?logo=github&style=flat-square)
 
-PreferenceActivity was not be used in API29 and high
-📌 https://zhuanlan.zhihu.com/p/148071154?utm_id=0  
+PreferenceActivity was not be used in API29 and high  
+https://zhuanlan.zhihu.com/p/148071154?utm_id=0 ⚡
+
+---
 Build :  
-- Remember : NOT USE Android Studio's full grade,this is not gradle app soucre code,if u need it,you can copy mainly files only:) 
+> Remember : NOT USE Android Studio's full grade,this is not gradle app soucre code,if u need it,you can copy mainly files only:) 
 
 
-__Require tool__: AIDE(Mobile)  
+1. Require tool: AIDE(Mobile)  
 
 
-**Require root**: No  
+2. AIDE Support abi: arm, arm64, x86(64) mips  
 
 
-**Need abi**: arm, arm64, x86(64)  
-
-
-**Need API Level**: 21 - higher ("AIDE" need)
+3. Need API Level: 21 - higher ("AIDE" need)
 
 
 
